@@ -105,3 +105,6 @@ Discovered areas for improvement, such as high pending orders and low laptop sal
 Compiled everything into a clean, interactive monthly performance report
 
 Ensured that the dashboard is easy to navigate and insight-driven
+
+## Final Dashboard
+<img width="1486" height="732" alt="Screenshot 2025-09-06 120959" src="https://github.com/user-attachments/assets/529d75a9-8106-4a8d-916e-14e9a088df0d" />
