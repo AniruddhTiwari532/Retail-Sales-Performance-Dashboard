@@ -41,3 +41,67 @@ Displays sales contribution per employee to measure individual performance.
 Tracks performance across months to identify growth patterns and seasonal trends.
 
 Provides better decision-making for sales strategies.
+
+## 🔄 Process
+
+The creation of the Retail Sales Performance Dashboard involved the following steps:
+
+#### 1. Data Collection 📥
+
+Gathered the Retail Sales Dataset containing:
+
+Product details (Laptop, Tablet, Printer, Mouse, etc.)
+
+Monthly sales data
+
+Employee-wise performance
+
+Payment method records
+
+Order status information
+
+#### 2. Data Cleaning & Preprocessing 🧹
+
+Removed duplicates and invalid entries
+
+Handled missing values
+
+Standardized data formats (e.g., dates, currency, and product names)
+
+Ensured consistency across multiple columns
+
+#### 3. Data Modeling & Structuring 🏗️
+
+Organized data into structured tables for Products, Employees, Orders, and Payments
+
+Linked relationships between datasets to ensure smooth visualizations
+
+Calculated additional metrics like Total Sales, Revenue per Product, and Pending Orders
+
+#### 4. Dashboard Design & Visualization 📊
+
+Designed an interactive dashboard to display KPIs and insights:
+
+Pie Charts → Order status & payment method distribution
+
+Bar Charts → Product-wise revenue comparison
+
+Horizontal Charts → Top-performing employees
+
+Trend Graphs → Monthly performance
+
+Applied professional styling for better readability
+
+#### 5. KPI Analysis & Insights Extraction 🔍
+
+Defined Key Performance Indicators (KPIs) to track business performance
+
+Identified top-selling products, payment preferences, and employee contributions
+
+Discovered areas for improvement, such as high pending orders and low laptop sales
+
+#### 6. Final Dashboard Deployment 🚀
+
+Compiled everything into a clean, interactive monthly performance report
+
+Ensured that the dashboard is easy to navigate and insight-driven
